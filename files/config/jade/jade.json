@@ -18,14 +18,14 @@
     "hideFromGUIs": true
   },
   "overlay": {
-    "activeTheme": "jade:dark",
+    "activeTheme": "tkm-core:tkm",
     "overlayPosX": 0.99,
     "overlayPosY": 0.5,
     "overlayScale": 1.0,
     "overlayAnchorX": 1.0,
     "overlayAnchorY": 0.5,
     "autoScaleThreshold": 0.4,
-    "alpha": 0.7,
+    "alpha": 1.0,
     "iconMode": "TOP",
     "animation": true,
     "disappearingDelay": 0.0
