@@ -1,10 +1,10 @@
-# Pack TKM 0.3.5. Lo lee tkm-updater al abrir el juego. Lo escribe client/make.py
+# Pack TKM 0.3.6. Lo lee tkm-updater al abrir el juego. Lo escribe client/make.py
 # de TKM-MINECRAFT: no se edita a mano.
-pack 0.3.5
+pack 0.3.6
 minecraft 26.3
 versions/TKM/TKM.json  d5c158a54aa70120cf61cf65077bd515ce55c46eb83dbeb02d371054d38b3942  https://raw.githubusercontent.com/diegocolino/tkm-pack/pruebas/files/versions/TKM/TKM.json
 libraries/gg/tkm/tkm-updater/1/tkm-updater-1.jar  8ac280300e11d8d1274e537ba9f1efdc5fc7e18c4f4bfe837a996a1e9ba7e852  https://raw.githubusercontent.com/diegocolino/tkm-pack/pruebas/files/libraries/gg/tkm/tkm-updater/1/tkm-updater-1.jar
-mods/tkm-core-0.2.6.jar  141d7323f4bd3f0bc1c1943ace572f8ae89fdf066de89b1ab64800d94ff80e80  https://raw.githubusercontent.com/diegocolino/tkm-pack/pruebas/files/mods/tkm-core-0.2.6.jar
+mods/tkm-core-0.2.7.jar  1031a05d4e4dd1e451dd09ad38dccdfb2252422ef8a15cb211b5069ca21fae4f  https://raw.githubusercontent.com/diegocolino/tkm-pack/pruebas/files/mods/tkm-core-0.2.7.jar
 mods/tkm-uhc-0.4.0.jar  123dccc5fcb008724de6b1e4207d4e821273510b1cbe70eb5de935f0aca7c8c4  https://raw.githubusercontent.com/diegocolino/tkm-pack/pruebas/files/mods/tkm-uhc-0.4.0.jar
 mods/fabric-api-0.165.0+26.3.jar  18442e2ad466d6ef41c37dbb4cb68495e6ca6658b1f1ee9be76143d155ef2c88  https://cdn.modrinth.com/data/P7dR8mSH/versions/EQKgpeKu/fabric-api-0.165.0%2B26.3.jar
 mods/sodium-fabric-0.9.2+mc26.3.jar  87a5bb39f7e6e41106e77f122f82fc93f9d3bc0b6ebcb746b314172a446a287a  https://cdn.modrinth.com/data/AANobbMI/versions/bAZQdGpg/sodium-fabric-0.9.2%2Bmc26.3.jar
