@@ -1,10 +1,10 @@
-# Pack TKM 0.3.1. Lo lee tkm-updater al abrir el juego. Lo escribe client/make.py
+# Pack TKM 0.3.2. Lo lee tkm-updater al abrir el juego. Lo escribe client/make.py
 # de TKM-MINECRAFT: no se edita a mano.
-pack 0.3.1
+pack 0.3.2
 minecraft 26.3
 versions/TKM/TKM.json  98263588d02e0c9f9cb70eac859ddee038b88ebfc2c356bf5b3da0941962472b  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/versions/TKM/TKM.json
 libraries/gg/tkm/tkm-updater/1/tkm-updater-1.jar  8ac280300e11d8d1274e537ba9f1efdc5fc7e18c4f4bfe837a996a1e9ba7e852  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/libraries/gg/tkm/tkm-updater/1/tkm-updater-1.jar
-mods/tkm-core-0.2.2.jar  3c4cb08a871bf9d36d64751d50205ac88a5e0d8f88b9809a316cd61ced26e1ba  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/mods/tkm-core-0.2.2.jar
+mods/tkm-core-0.2.3.jar  5869b39b81208d4135a5b24ab20e49050dbad8d59d425c35494e58cc2b4ebbdb  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/mods/tkm-core-0.2.3.jar
 mods/tkm-uhc-0.4.0.jar  123dccc5fcb008724de6b1e4207d4e821273510b1cbe70eb5de935f0aca7c8c4  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/mods/tkm-uhc-0.4.0.jar
 mods/fabric-api-0.165.0+26.3.jar  18442e2ad466d6ef41c37dbb4cb68495e6ca6658b1f1ee9be76143d155ef2c88  https://cdn.modrinth.com/data/P7dR8mSH/versions/EQKgpeKu/fabric-api-0.165.0%2B26.3.jar
 mods/sodium-fabric-0.9.2+mc26.3.jar  87a5bb39f7e6e41106e77f122f82fc93f9d3bc0b6ebcb746b314172a446a287a  https://cdn.modrinth.com/data/AANobbMI/versions/bAZQdGpg/sodium-fabric-0.9.2%2Bmc26.3.jar
@@ -32,10 +32,10 @@ config/dynamic_fps.json  78d1a5d168abbf25c70608b1058b25fd9e34a93ec3fd61e6ceb8ac2
 config/entityculling.json  c10486c62f5b7dea5f950c2a62eab9618b732d749c18655a366be727d4415f54  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/config/entityculling.json
 config/sodium-mixins.properties  0137760fbe3cb04558f74724c48f6e5dfcdf091f1991bb7a5afa9e941525dfd4  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/config/sodium-mixins.properties
 config/sodium-options.json  a254b8f531a8cef6ade6f1b860e80ee4cfbf5fb5905d0963c24b121c4f6518a2  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/config/sodium-options.json
-config/xaero/lib/common.cfg  fdccbb32c806c3017294cea9a8099b459b7f44ea005eaf78737be5eb438417c0  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/config/xaero/lib/common.cfg
 config/iris.properties  b5a18588d6ccd3af52e3f743662915b3c7c1e6193088b77000422fd1d7cc3c0c  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/config/iris.properties  keep
 config/jade/jade.json  d39f2c99fbca2f5e8651cd233ed603ddd894d8dd80df85eba90b33088d26160a  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/config/jade/jade.json  keep
 config/lambdynlights.toml  4e42eaca4e94d014ec6445097b9138ce8b463a0fb242d281ac1163e51589fb92  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/config/lambdynlights.toml  keep
+config/xaero/lib/common.cfg  fdccbb32c806c3017294cea9a8099b459b7f44ea005eaf78737be5eb438417c0  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/config/xaero/lib/common.cfg  keep
 config/xaero/minimap/client.cfg  846cfc81d667086a251de0e619e3b5fc3cfceb67fa0baeb58a8d92d868d203a6  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/config/xaero/minimap/client.cfg  keep
 config/xaero/world-map/client.cfg  846cfc81d667086a251de0e619e3b5fc3cfceb67fa0baeb58a8d92d868d203a6  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/config/xaero/world-map/client.cfg  keep
 config/xaerohud.txt  8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd  https://raw.githubusercontent.com/diegocolino/tkm-pack/main/files/config/xaerohud.txt  keep
